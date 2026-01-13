@@ -8,7 +8,7 @@ const tokenSize = 50;
 const trashSize = 75;
 const playerLimit = 3;
 const pColors = ["#FFD93D", "#654E92", "#ED2B2A"];
-const pNames = ["Ailan", "Robert", "We'ber"];
+const pNames = ["Matt", "Flash", "Milo"];
 
 const canvas = document.querySelector("#canvas");
 const input = document.querySelector("#url");
